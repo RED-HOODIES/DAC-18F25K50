@@ -1,8 +1,10 @@
-/* 
- * File:   config.h
- * Author: TRABAJO
- *
- * Created on 23 de noviembre de 2023, 11:36 AM
+/*
+ * File:   main.c (PERSONALIZACIÓN CARACTER)
+ * 
+ * Autores: Oscar David Poblador Parra      20211005116
+ *          Juan David Bello Rodriguez      20211005028 
+ *          Manuel Alejandro Guio Cardona   20211005061
+ * Institución:: Universidad Distrital Francisco José de Caldas
  */
 
 #ifndef CONFIG_H
